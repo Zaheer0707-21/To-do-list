@@ -1,0 +1,58 @@
+
+
+
+ body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ .cont1{
+  display: flex;
+  justify-content: center;
+  
+ }
+ 
+ 
+       
+ 
+.tabmain{
+   
+    border-radius: 5px;
+    text-align: center;
+    
+     
+    
+}
+  .cont2{
+    display: flex;
+    justify-content: center;
+    
+    
+
+
+  }
+
+ .tabsub{
+  
+    text-align: center;
+
+  
+ }
+
+ tr,td{
+     padding: 2px;
+     border: 1px black solid;
+     border-radius: 5px;
+
+     
+   
+}
+ 
+ select{
+   width: 100%;
+   border: none;
+ }
+ input{
+   height: 20px;
+   width: 97%;
+   border: none;
+ }
